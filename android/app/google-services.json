@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563861979400",
+    "firebase_url": "https://delgroce.firebaseio.com",
+    "project_id": "delgroce",
+    "storage_bucket": "delgroce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563861979400:android:ba5f85d24d333d1a18acbd",
+        "android_client_info": {
+          "package_name": "com.example.delgroce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563861979400-eqf3070s48i03241k4b803535vpcogma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delgroce",
+            "certificate_hash": "36a83dc44b9e304961047fe45614908645ee9ed8"
+          }
+        },
+        {
+          "client_id": "563861979400-ev0ffmkqf1kjga1l1htmp46o4v9o3l7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOIvv50d8SiNUut8AyURe2zvHJ_KoYJts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563861979400-ev0ffmkqf1kjga1l1htmp46o4v9o3l7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
